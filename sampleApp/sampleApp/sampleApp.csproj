@@ -14,4 +14,16 @@
     <PackageReference Include="Xamarin.Forms" Version="4.4.0.991265" />  
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Views\DreamDetailPage.xaml.cs">
+      <DependentUpon>DreamDetailPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\DreamsPage.xaml.cs">
+      <DependentUpon>DreamsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\NewDreamPage.xaml.cs">
+      <DependentUpon>NewDreamPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>
