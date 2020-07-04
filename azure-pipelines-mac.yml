@@ -1,1 +1,13 @@
+pool:
+  vmImage: 'macOS-10.15'
 
+variables:
+  buildConfiguration: 'Release'
+
+steps:
+- task: XamariniOS@2
+  inputs:
+    solutionFile: '**/*iOS.csproj'
+    configuration: '$(buildConfiguration)'
+    packageApp: false
+    buildForSimulator: true
