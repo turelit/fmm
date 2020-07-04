@@ -5,6 +5,11 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
+- task: NuGetToolInstaller@0
+
+- task: NuGetCommand@2
+  inputs:
+    restoreSolution: '**/*.sln'
 - task: XamariniOS@2
   inputs:
     solutionFile: '**/*iOS.csproj'
