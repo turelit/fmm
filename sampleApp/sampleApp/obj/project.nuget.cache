@@ -1,14 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "79sj4d4cc5Q3TD65etyoGOxqhA/TrgTYMQw3Vd0wmSlcrMF72+Np0sDngdxXk6NzHLnrqDSLb7s/vUnr0AZuNA==",
+  "dgSpecHash": "mZHXoSyus5a+dX1kcwqdb+MkJ5GeFLI9zx4jyZ4eCpCBq6rAU8VBBPIrPYaWXTpuPUCeQIx+u3/BmcyELEIPkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\rafal\\source\\repos\\turelit\\fmm\\sampleApp\\sampleApp\\sampleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\rafal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rafal\\.nuget\\packages\\syncfusion.licensing\\18.2.0.46\\syncfusion.licensing.18.2.0.46.nupkg.sha512",
+    "C:\\Users\\rafal\\.nuget\\packages\\syncfusion.xamarin.buttons\\18.2.0.46\\syncfusion.xamarin.buttons.18.2.0.46.nupkg.sha512",
+    "C:\\Users\\rafal\\.nuget\\packages\\syncfusion.xamarin.core\\18.2.0.46\\syncfusion.xamarin.core.18.2.0.46.nupkg.sha512",
+    "C:\\Users\\rafal\\.nuget\\packages\\syncfusion.xamarin.sfbackdrop\\18.2.0.46\\syncfusion.xamarin.sfbackdrop.18.2.0.46.nupkg.sha512",
+    "C:\\Users\\rafal\\.nuget\\packages\\syncfusion.xamarin.sfcombobox\\18.2.0.46\\syncfusion.xamarin.sfcombobox.18.2.0.46.nupkg.sha512",
     "C:\\Users\\rafal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\rafal\\.nuget\\packages\\xamarin.forms\\4.7.0.1142\\xamarin.forms.4.7.0.1142.nupkg.sha512"
   ],
   "logs": []
 }

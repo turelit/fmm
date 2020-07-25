@@ -23,7 +23,6 @@ C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandar
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\Views\DreamsPage.xaml.g.cs
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\Views\NewDreamPage.xaml.g.cs
-C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\sampleApp.csproj.CoreCompileInputs.cache
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\sampleApp.AssemblyInfoInputs.cache
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\sampleApp.AssemblyInfo.cs
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\sampleApp.dll
@@ -33,4 +32,10 @@ C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\bin\Debug\netstandar
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\bin\Debug\netstandard2.0\sampleApp.dll
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\bin\Debug\netstandard2.0\ref\sampleApp.dll
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\bin\Debug\netstandard2.0\sampleApp.pdb
+C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\Views\Forms\SimpleEmailEntry.xaml.g.cs
+C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\Views\Forms\SimpleLoginPage.xaml.g.cs
+C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs
+C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\Views\backdrop.xaml.g.cs
+C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\sampleApp.csproj.CoreCompileInputs.cache
 C:\Users\rafal\source\repos\turelit\fmm\sampleApp\sampleApp\obj\Debug\netstandard2.0\XamlC.stamp

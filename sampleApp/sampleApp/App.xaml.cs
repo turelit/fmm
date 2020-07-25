@@ -3,6 +3,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using sampleApp.Services;
 using sampleApp.Views;
+using sampleApp.Views.Forms;
 
 namespace sampleApp
 {
@@ -14,7 +15,7 @@ namespace sampleApp
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new MainPage();
+            MainPage = new backdrop();
         }
 
         protected override void OnStart()
